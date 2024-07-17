@@ -1,0 +1,12 @@
+path: /Users/likhithmr/Downloads/data # dataset root dir    
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: creater
+
+  #1.create a data folder and create 2 folders named >> images and >> label
+  #create folder named train in both images & label folder 
+  #copy all the images in train folder of images folder
+  #copy all the label files (annotation files) in train folder of label folder
