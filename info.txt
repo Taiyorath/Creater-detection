@@ -6,4 +6,5 @@ https://colab.research.google.com/drive/18zht0uJmWfk2cKpocyU6mgXCrRXXUjpI?usp=sh
 
 
 https://github.com/roboflow # for Roboflow
-https://github.com/roboflow/notebooks  for Notebooks for yolov series'
+https://github.com/roboflow/notebooks  for Notebooks for yolo series'
+https://github.com/ultralytics/ultralytics?tab=readme-ov-file     Ultralytics
