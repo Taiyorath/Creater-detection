@@ -1,3 +1,9 @@
+
+
 Another Google Collab py book
 
 https://colab.research.google.com/drive/18zht0uJmWfk2cKpocyU6mgXCrRXXUjpI?usp=sharing#scrollTo=tdSMcABDNKW-
+
+
+https://github.com/roboflow # for Roboflow
+https://github.com/roboflow/notebooks
